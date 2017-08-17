@@ -1,0 +1,15 @@
+Name of Quantlet: PGFP_add_Bs_IQR_logit
+
+Published in: Pricing Green Financial Products  
+
+Description: 'Normalisation of German wind power utilisation for stochastic pricing.' 
+
+Keywords: 'normalization, seasonality, trend, time series, CARMA, Testing, IQR, IER, smoothing, B-splines' 
+
+Author:   Awdesch Melzer 
+
+Datafile: WP16.RData, WP1015.RData
+
+Functions: periodic_bspline.R, garchAuto.R
+
+Example: 'Normalisation' 

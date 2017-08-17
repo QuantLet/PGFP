@@ -1,0 +1,13 @@
+Name of Quantlet: PGFP_Pricing_week
+
+Published in: Pricing Green Financial Products  
+
+Description: ‘Stochastic pricing and calibration of risk premium. Out-of-sample backtesting for price prediction using zero MPR, constant MPR, smooth MPR. Sensitivity test with cross-validation.’ 
+
+Keywords: ‘MPR, OLS, smoothing, backtesting, cross-validation, benchmark, rmse, mape’ 
+
+Author:   Awdesch Melzer 
+
+Datafile: NQPmonth.RData, armal.RData, pq.RData, windforpricing.RData, windforpricing2016.RData
+
+Example: ‘MPR’ 
